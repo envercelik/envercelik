@@ -4,7 +4,7 @@
   <tr>
 
 
-  <td width="50%">
+  <td width="100%">
 
 <br><p><b>Hi there 👋 <br> I'm Enver from Turkey,</b><br> I am interested in native android development and computer vision.</p>
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/enver-%C3%A7elik-0607711b7/)
@@ -12,11 +12,12 @@
   <!--<img src="https://komarev.com/ghpvc/?username=envercelik" alt="envercelik" /> </p>-->
 </p>
   </td>
+  <!--   
     <td width="50%">
 
-      
+   
 &nbsp; <br> [![Spotify](https://novatorem2.envercelik.vercel.app/api/spotify)](https://open.spotify.com/user/qjt43ubr3n5o1pbyq67mb6g2b)
-
+-->
   </td>
   </table>
 
