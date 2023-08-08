@@ -5,8 +5,9 @@
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailto:celiqenver@gmail.com)
 <!--[![Visits](https://komarev.com/ghpvc/?username=envercelik&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/envercelik)-->
 <td>
-  
-<!-- <br> [![Spotify](https://novatorem2.envercelik.vercel.app/api/spotify)](https://open.spotify.com/user/qjt43ubr3n5o1pbyq67mb6g2b) -->
+          
+   <br> [![Spotify](https://novatorem2.envercelik.vercel.app/api/spotify)](https://open.spotify.com/user/qjt43ubr3n5o1pbyq67mb6g2b)
+   
 </td></tr></table>
   
   
